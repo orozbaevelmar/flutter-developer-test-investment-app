@@ -1,1 +1,0 @@
- /Users/elmarbekorozbaev/MyProjects/Flutter_Projects/flutter-developer-test-investment-app/.dart_tool/flutter_build/8884e9fd955302c0d4d0ff5d4a746e1a/native_assets.json: 
